@@ -31,7 +31,6 @@ elif len(argv) == 1: # Prints help message
 Usage: pyf [-info | -raw] sample.txt
 
 Options:
-
     -info     Information about file.
     -raw      Prints raw binary data.
 """) # Printing help message
